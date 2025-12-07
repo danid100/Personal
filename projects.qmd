@@ -1,0 +1,35 @@
+---
+title: "Professional & Academic Projects"
+type: html
+---
+
+# Projects & Research
+
+Below are selected academic and industry projects I have completed at UCLA and during past internships.
+
+
+## Stats 101B - Effects of Exercise on Memory  
+Designed and analyzed a randomized complete block experiment on whether different durations of light jogging (5 vs 30 minutes) affect memory game performance. Methods included ANOVA, model checking, and power analysis.
+
+[View PDF](projects/Stat101B.pdf)
+
+
+## Stats 101C - Predicting NBA Game Outcomes  
+Modeled NBA game outcomes using logistic regression, XGBoost, and Random Forest with continuous retraining through the season. Achieved ~74% accuracy on updated models.
+
+[View PDF](projects/Stat101C.pdf)
+
+
+## Comm 188C - AI Policy vs Public Opinion  
+Compared AI legislation and Reddit discussion using sentiment analysis (VADER), topic modeling (BERTopic), and zero-shot classification into themes (Bias, Privacy, Transparency).
+
+[View PDF](projects/Comm188C.pdf)
+
+
+## Nike Internship - Commercial Analytics Deck  
+Developed strategic analytics and a merchandising framework for Nike product teams during summer internship. This deck summarizes high-level insights and recommendations.
+
+[View Slide Deck](projects/NikePres.pptx)
+
+
+More projects coming soon!
