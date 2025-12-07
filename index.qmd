@@ -1,0 +1,29 @@
+---
+title: "About Me"
+---
+
+## Welcome to my personal website!
+
+<image src="image/headshot.jpg" width="180" style="border-radius:" />
+
+Hi my name is Danielle DeFrancisci.  
+I’m a Statistics & Data Science student at UCLA, a Division I rower, and a data-driven problem solver interested in analytics, sports business, and consulting. I love using quantitative tools to understand complex systems, tell stories with data, and present insights clearly through clean design and communication.
+
+My academic and professional work includes:  
+- Statistical modeling  
+- Machine learning projects in R and Python  
+- Sports analytics & business strategy research  
+- Consulting-style presentations and client-facing deliverables  
+- Public health, environmental, and political data analysis  
+- Writing and presenting research to technical and non-technical audiences  
+
+## Download My Resume here:
+  [**Click here to download my Resume (PDF)**](resume.pdf){.btn .btn-primary target="_blank"}
+
+
+## Contact & Links
+
+- **LinkedIn:** <https://www.linkedin.com/in/danielle-defrancisci/>  
+- **Email:** <mailto:danielledefran@ucla.edu>  
+
+I look forward to connecting. I’m always excited to talk about analytics, sports, research, or anything UCLA-related!

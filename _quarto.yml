@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Danielle D. Personal Website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "About"
+      - href: projects.html
+        text: "Projects"
+    right:
+      - text: "LinkedIn"
+        href: "https://www.linkedin.com/in/danielledefrancisci"
+      - text: "Email"
+        href: "mailto:danielledefran@ucla.edu"
+
+format:
+  html:
+    theme: 
+      - cosmo
+    css: styles.css
+    toc: true

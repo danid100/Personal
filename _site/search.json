@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi my name is Danielle DeFrancisci.\nI’m a Statistics & Data Science student at UCLA, a Division I rower, and a data-driven problem solver interested in analytics, sports business, and consulting. I love using quantitative tools to understand complex systems, tell stories with data, and present insights clearly through clean design and communication.\nMy academic and professional work includes:\n- Statistical modeling\n- Machine learning projects in R and Python\n- Sports analytics & business strategy research\n- Consulting-style presentations and client-facing deliverables\n- Public health, environmental, and political data analysis\n- Writing and presenting research to technical and non-technical audiences"
+  },
+  {
+    "objectID": "index.html#welcome-to-my-personal-website",
+    "href": "index.html#welcome-to-my-personal-website",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi my name is Danielle DeFrancisci.\nI’m a Statistics & Data Science student at UCLA, a Division I rower, and a data-driven problem solver interested in analytics, sports business, and consulting. I love using quantitative tools to understand complex systems, tell stories with data, and present insights clearly through clean design and communication.\nMy academic and professional work includes:\n- Statistical modeling\n- Machine learning projects in R and Python\n- Sports analytics & business strategy research\n- Consulting-style presentations and client-facing deliverables\n- Public health, environmental, and political data analysis\n- Writing and presenting research to technical and non-technical audiences"
+  },
+  {
+    "objectID": "index.html#download-my-resume-here",
+    "href": "index.html#download-my-resume-here",
+    "title": "About Me",
+    "section": "Download My Resume here:",
+    "text": "Download My Resume here:\nClick here to download my Resume (PDF)"
+  },
+  {
+    "objectID": "index.html#contact-links",
+    "href": "index.html#contact-links",
+    "title": "About Me",
+    "section": "Contact & Links",
+    "text": "Contact & Links\n\nLinkedIn: https://www.linkedin.com/in/danielle-defrancisci/\n\nEmail: mailto:danielledefran@ucla.edu\n\nI look forward to connecting. I’m always excited to talk about analytics, sports, research, or anything UCLA-related!"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Professional & Academic Projects",
+    "section": "",
+    "text": "Below are selected academic and industry projects I have completed at UCLA and during past internships.\n\n\nDesigned and analyzed a randomized complete block experiment on whether different durations of light jogging (5 vs 30 minutes) affect memory game performance. Methods included ANOVA, model checking, and power analysis.\nView PDF\n\n\n\nModeled NBA game outcomes using logistic regression, XGBoost, and Random Forest with continuous retraining through the season. Achieved ~74% accuracy on updated models.\nView PDF\n\n\n\nCompared AI legislation and Reddit discussion using sentiment analysis (VADER), topic modeling (BERTopic), and zero-shot classification into themes (Bias, Privacy, Transparency).\nView PDF\n\n\n\nDeveloped strategic analytics and a merchandising framework for Nike product teams during summer internship. This deck summarizes high-level insights and recommendations.\nView Slide Deck\nMore projects coming soon!"
+  },
+  {
+    "objectID": "projects.html#stats-101b---effects-of-exercise-on-memory",
+    "href": "projects.html#stats-101b---effects-of-exercise-on-memory",
+    "title": "Professional & Academic Projects",
+    "section": "",
+    "text": "Designed and analyzed a randomized complete block experiment on whether different durations of light jogging (5 vs 30 minutes) affect memory game performance. Methods included ANOVA, model checking, and power analysis.\nView PDF"
+  },
+  {
+    "objectID": "projects.html#stats-101c---predicting-nba-game-outcomes",
+    "href": "projects.html#stats-101c---predicting-nba-game-outcomes",
+    "title": "Professional & Academic Projects",
+    "section": "",
+    "text": "Modeled NBA game outcomes using logistic regression, XGBoost, and Random Forest with continuous retraining through the season. Achieved ~74% accuracy on updated models.\nView PDF"
+  },
+  {
+    "objectID": "projects.html#comm-188c---ai-policy-vs-public-opinion",
+    "href": "projects.html#comm-188c---ai-policy-vs-public-opinion",
+    "title": "Professional & Academic Projects",
+    "section": "",
+    "text": "Compared AI legislation and Reddit discussion using sentiment analysis (VADER), topic modeling (BERTopic), and zero-shot classification into themes (Bias, Privacy, Transparency).\nView PDF"
+  },
+  {
+    "objectID": "projects.html#nike-internship---commercial-analytics-deck",
+    "href": "projects.html#nike-internship---commercial-analytics-deck",
+    "title": "Professional & Academic Projects",
+    "section": "",
+    "text": "Developed strategic analytics and a merchandising framework for Nike product teams during summer internship. This deck summarizes high-level insights and recommendations.\nView Slide Deck\nMore projects coming soon!"
+  }
+]
