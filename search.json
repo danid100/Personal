@@ -32,34 +32,34 @@
     "href": "projects.html",
     "title": "Professional & Academic Projects",
     "section": "",
-    "text": "Below are selected academic and industry projects I have completed at UCLA and during past internships.\n\n\nDesigned and analyzed a randomized complete block experiment on whether different durations of light jogging (5 vs 30 minutes) affect memory game performance. Methods included ANOVA, model checking, and power analysis.\nView PDF\n\n\n\nModeled NBA game outcomes using logistic regression, XGBoost, and Random Forest with continuous retraining through the season. Achieved ~74% accuracy on updated models.\nView PDF\n\n\n\nCompared AI legislation and Reddit discussion using sentiment analysis (VADER), topic modeling (BERTopic), and zero-shot classification into themes (Bias, Privacy, Transparency).\nView PDF\n\n\n\nDeveloped strategic analytics and a merchandising framework for Nike product teams during summer internship. This deck summarizes high-level insights and recommendations.\nView Slide Deck\nMore projects coming soon!"
+    "text": "Below are selected academic and industry projects I have completed at UCLA and during past internships.\n\n\nDesigned and analyzed a randomized complete block experiment on whether different durations of light jogging (5 vs 30 minutes) affect memory game performance. Methods included ANOVA, model checking, and power analysis.\nView Slides PDF\n\n\n\nModeled NBA game outcomes using logistic regression, XGBoost, and Random Forest with continuous retraining through the season. Achieved ~74% accuracy on updated models.\nView Report PDF\n\n\n\nCompared AI legislation and Reddit discussion using sentiment analysis (VADER), topic modeling (BERTopic), and zero-shot classification into themes (Bias, Privacy, Transparency).\nView Report PDF\n\n\n\nDeveloped strategic analytics and a merchandising framework for Nike product teams during summer internship. This deck summarizes high-level insights and recommendations.\nView Pptx\nMore projects coming soon!"
   },
   {
     "objectID": "projects.html#stats-101b---effects-of-exercise-on-memory",
     "href": "projects.html#stats-101b---effects-of-exercise-on-memory",
     "title": "Professional & Academic Projects",
     "section": "",
-    "text": "Designed and analyzed a randomized complete block experiment on whether different durations of light jogging (5 vs 30 minutes) affect memory game performance. Methods included ANOVA, model checking, and power analysis.\nView PDF"
+    "text": "Designed and analyzed a randomized complete block experiment on whether different durations of light jogging (5 vs 30 minutes) affect memory game performance. Methods included ANOVA, model checking, and power analysis.\nView Slides PDF"
   },
   {
     "objectID": "projects.html#stats-101c---predicting-nba-game-outcomes",
     "href": "projects.html#stats-101c---predicting-nba-game-outcomes",
     "title": "Professional & Academic Projects",
     "section": "",
-    "text": "Modeled NBA game outcomes using logistic regression, XGBoost, and Random Forest with continuous retraining through the season. Achieved ~74% accuracy on updated models.\nView PDF"
+    "text": "Modeled NBA game outcomes using logistic regression, XGBoost, and Random Forest with continuous retraining through the season. Achieved ~74% accuracy on updated models.\nView Report PDF"
   },
   {
     "objectID": "projects.html#comm-188c---ai-policy-vs-public-opinion",
     "href": "projects.html#comm-188c---ai-policy-vs-public-opinion",
     "title": "Professional & Academic Projects",
     "section": "",
-    "text": "Compared AI legislation and Reddit discussion using sentiment analysis (VADER), topic modeling (BERTopic), and zero-shot classification into themes (Bias, Privacy, Transparency).\nView PDF"
+    "text": "Compared AI legislation and Reddit discussion using sentiment analysis (VADER), topic modeling (BERTopic), and zero-shot classification into themes (Bias, Privacy, Transparency).\nView Report PDF"
   },
   {
     "objectID": "projects.html#nike-internship---commercial-analytics-deck",
     "href": "projects.html#nike-internship---commercial-analytics-deck",
     "title": "Professional & Academic Projects",
     "section": "",
-    "text": "Developed strategic analytics and a merchandising framework for Nike product teams during summer internship. This deck summarizes high-level insights and recommendations.\nView Slide Deck\nMore projects coming soon!"
+    "text": "Developed strategic analytics and a merchandising framework for Nike product teams during summer internship. This deck summarizes high-level insights and recommendations.\nView Pptx\nMore projects coming soon!"
   }
 ]
